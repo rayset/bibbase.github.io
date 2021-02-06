@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<div class="about-col-wrapper">
+  <div class="about-col about-col-1">
+
+
+    <img class="user-picture" src="{{ site.url }}/assets/photo.png" alt="{{ site.author }}">
+	
+    <ul class="contact-list">
+     
+	 
+	 <li><a href="mailto:giuseppi@diag.uniroma1.it"><i class="fas fa-envelope-open-text" style="color:#3F3F3F;font-size:19px;vertical-align: middle;"></i> Email</a></li>
+	 
+	 
+
+      {% if site.curriculum.url %}
+      <li>
+        {% include _icons/file.html curriculum=site.curriculum %}
+      </li>
+      {% endif %}
+    </ul>
+
+    <ul class="contact-list">
+      {% if site.author_website %}
+      <li>
+        {% include _icons/website.html url=site.author_website %}
+      </li>
+      {% endif %}
+    </ul>
+
+    {% include contactlist.html %}
+
+  </div>
+  <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+
+  </article>
+  
+</div>
