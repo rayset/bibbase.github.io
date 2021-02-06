@@ -25,7 +25,7 @@ I have several open topics suitable for bachelord and master theses in any of th
 To the interested (and determined) students, my research group could propose the possibility to do a master thesis in collaboration with a company (various industrial fields: space engineering, telecommunications, power systems).
 
 ### Short list of selected theses
-To provide some examples to the students, this is a list of a few past theses for which I was the co-supervisor.
+To provide some examples to the students, here are listed a few selected theses for which I was the co-supervisor:
 
 * Alessandro Santopaolo, "Forest fire prediction from satellite data using deep convolutional neural networks", grade: 110 cum laude and first place in the Telespazio Technology contest 2020 ([T-TeC 2020](https://www.telespazio.com/it/innovation/open-innovation/ttec-2020)), the thesis focused on the design of a short-term fire-risk predictor based on satellite-imaging analysis with convolutional neural networks.
 
