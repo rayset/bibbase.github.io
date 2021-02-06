@@ -6,9 +6,7 @@ layout: about
 invisible: 1
 ---
 
-## General Information
-
-I am a PosDoctoral Researcher in Automatica at the University of Rome "La Sapienza", working at the [Network Control Laboratory](http://diag.uniroma1.it/nclab/) of the Department of Computer, Control, and Management Engineering ([DIAG](http://diag.uniroma1.it)) "Antonio Ruberti" and member of its [Networked System Research Group](https://www.diag.uniroma1.it/en/gruppi-di-ricerca/18328).
+I am a PostDoctoral Researcher in Automatica at the University of Rome "La Sapienza", working at the [Network Control Laboratory](http://diag.uniroma1.it/nclab/) of the Department of Computer, Control, and Management Engineering ([DIAG](http://diag.uniroma1.it)) "Antonio Ruberti" and member of its [Networked System Research Group](https://www.diag.uniroma1.it/en/gruppi-di-ricerca/18328).
 
 My research interests are mostly related to Intelligent Control Systems and Control Methods for the analysis and control of Smart Networks.
 
