@@ -4,6 +4,7 @@ gem 'jekyll-feed'
 gem 'redcarpet'
 gem "kramdown-parser-gfm"
 gem 'jekyll-academicons-svg'
+gem 'jekyll-fontawesome-svg'
 
 
 group :jekyll_plugins do
@@ -15,5 +16,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-paginate' 
   gem 'jekyll-font-awesome-sass'
-
+  
 end

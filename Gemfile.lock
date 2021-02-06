@@ -54,6 +54,7 @@ GEM
     jekyll-font-awesome-sass (0.1.1)
       font-awesome-sass (>= 4)
       jekyll (>= 2.5, < 4.0)
+    jekyll-fontawesome-svg (0.3.4)
     jekyll-last-modified-at (1.3.0)
       jekyll (>= 3.7, < 5.0)
       posix-spawn (~> 0.3.9)
@@ -113,6 +114,7 @@ DEPENDENCIES
   jekyll-data
   jekyll-feed
   jekyll-font-awesome-sass
+  jekyll-fontawesome-svg
   jekyll-last-modified-at
   jekyll-livereload
   jekyll-paginate
