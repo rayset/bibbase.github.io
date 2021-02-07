@@ -41,6 +41,10 @@ defaults:
 
 # Build settings
 
+imagesurl: "/uploads/album/"
+thumbsurl: "/images/"
+
+
 gems:
   - jekyll-font-awesome-sass
 
